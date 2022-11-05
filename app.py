@@ -44,7 +44,7 @@ def main():
         st.success(str(value_in)+" "+str(unit_in)+ " entspricht "+str(value_in * weights[unit_in] / weights[unit_out])+" "+str(unit_out))
     # Falls Fehler auftritt
     except:
-        st.warning("Es ist ein Fehler aufgetreten,bitte Seite neu laden.")
+        st.warning("Es ist ein Fehler aufgetreten, bitte Seite neu laden.")
 
 # aufrufen der main Function
 if __name__ == '__main__':
