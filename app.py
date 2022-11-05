@@ -13,7 +13,7 @@ def main():
     # mittels CSS wird Standard Layout von Streamlit geändert
     hide_streamlit_style = """ 
             <style>
-           div.block-container{padding-top:6rem;}
+           div.block-container{padding-top:2rem;}
               div[data-testid="stToolbar"] {
                visibility: hidden;
                height: 0%;
