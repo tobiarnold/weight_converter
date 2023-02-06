@@ -2,4 +2,4 @@
 
 Weight converter mittels Python.
 
-LinK: https://tobiarnold-weight-converter-app-syj13f.streamlit.app/
+Link: https://tobiarnold-weight-converter-app-syj13f.streamlit.app/
